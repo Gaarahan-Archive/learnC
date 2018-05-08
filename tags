@@ -1,0 +1,209 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BFS	图的创建,遍历.c	/^void BFS(adjmatrix *G,int v0){$/;"	f
+BITree	先序和中序建立二叉树.c	/^} BiTNode,* BITree;    $/;"	t	typeref:struct:BiTNode	file:
+BTNode	Test1.c	/^}BTNode;$/;"	t	typeref:struct:node	file:
+BiTNode	先序和中序建立二叉树.c	/^typedef struct BiTNode    $/;"	s	file:
+BiTNode	先序和中序建立二叉树.c	/^} BiTNode,* BITree;    $/;"	t	typeref:struct:BiTNode	file:
+Bitree	TW面试/2.c	/^}Bitree;$/;"	v	typeref:struct:bitree
+CreatBitTree	Test1.c	/^BTNode* CreatBitTree()$/;"	f
+CrtHuffmanCode1	哈夫曼.c	/^void CrtHuffmanCode1(HuffmanTree ht,HuffmanCode hc,int n){$/;"	f
+CrtHuffmanTree	哈夫曼.c	/^void CrtHuffmanTree(HuffmanTree ht,char ch[],int w[],int n){$/;"	f
+DFS	图的创建,遍历.c	/^void DFS(adjmatrix *G,int v0){$/;"	f
+DeleteQueue	图的创建,遍历.c	/^int DeleteQueue(Queue *q,int *x){$/;"	f
+Empty	图的创建,遍历.c	/^int Empty(Queue q){$/;"	f
+EnterQueue	图的创建,遍历.c	/^int EnterQueue(Queue *q,int x){$/;"	f
+FirstAdjVex	图的创建,遍历.c	/^int FirstAdjVex(adjmatrix *G,int v0){$/;"	f
+HTNode	哈夫曼.c	/^}HTNode,HuffmanTree[M+1];$/;"	t	typeref:struct:__anon6	file:
+HuffmanCode	哈夫曼.c	/^typedef char * HuffmanCode[N+1];$/;"	t	file:
+HuffmanTree	哈夫曼.c	/^}HTNode,HuffmanTree[M+1];$/;"	t	typeref:struct:__anon6	file:
+InOrder	Test1.c	/^void InOrder(BTNode* b)$/;"	f
+InOrder	树的建立和遍历.c	/^void InOrder(bit_tree_node root){ $/;"	f
+Init	排列1-20.c	/^void Init(){$/;"	f
+Init_SeqStack	树的建立和遍历.c	/^SeqStack *Init_SeqStack(){$/;"	f
+IsEmpty	树的建立和遍历.c	/^int IsEmpty(SeqStack *s){$/;"	f
+IsisPrime	排列1-20.c	/^int IsisPrime(int k)\/\/�ж��Ƿ�������,�Ƿ��� 1,���򷵻� 0 $/;"	f
+Lchild	哈夫曼.c	/^	int parent,Lchild,Rchild;$/;"	m	struct:__anon6	file:
+Lchild	树的建立和遍历.c	/^    struct Node *Lchild;$/;"	m	struct:Node	typeref:struct:Node::Node	file:
+Locate	图的创建,遍历.c	/^int Locate(adjmatrix *G,char c)$/;"	f
+M	哈夫曼.c	5;"	d	file:
+MAX	TW面试/4.c	2;"	d	file:
+MAX	TW面试/6.c	2;"	d	file:
+MAX	哈夫曼.c	6;"	d	file:
+MAX	图的创建,遍历.c	4;"	d	file:
+MAX	树的建立和遍历.c	3;"	d	file:
+MAXNUM	house_chess.cpp	3;"	d	file:
+MAXNUM	迷宫.c	3;"	d	file:
+MAXSIZE	Test1.c	12;"	d	file:
+MAXSIZE	三元组.c	3;"	d	file:
+N	先序和中序建立二叉树.c	5;"	d	file:
+N	哈夫曼.c	4;"	d	file:
+NextAdjVex	图的创建,遍历.c	/^int NextAdjVex(adjmatrix *G,int v0,int w){$/;"	f
+Node	树的建立和遍历.c	/^typedef struct Node{$/;"	s	file:
+Output	排列1-20.c	/^void Output()$/;"	f
+Poly	一元多项式.c	/^struct Poly{$/;"	s	file:
+PostOrder	Test1.c	/^void PostOrder(BTNode* b)$/;"	f
+PreOrder	Test1.c	/^void PreOrder(BTNode* b)$/;"	f
+PreOrder	树的建立和遍历.c	/^void PreOrder(bit_tree_node root){$/;"	f
+PrintTree	先序和中序建立二叉树.c	/^void PrintTree(BITree root,int h){$/;"	f
+PrintTree	树的建立和遍历.c	/^void PrintTree(bit_tree_node root,int h){$/;"	f
+Push	树的建立和遍历.c	/^int Push(SeqStack *s,bit_tree_node p){$/;"	f
+Queue	图的创建,遍历.c	/^}Queue;$/;"	t	typeref:struct:__anon2	file:
+Rchild	哈夫曼.c	/^	int parent,Lchild,Rchild;$/;"	m	struct:__anon6	file:
+Rchild	树的建立和遍历.c	/^    struct Node *Rchild;$/;"	m	struct:Node	typeref:struct:Node::Node	file:
+SeqStack	树的建立和遍历.c	/^}SeqStack;$/;"	t	typeref:struct:__anon3	file:
+Seqstack	house_chess.cpp	/^struct Seqstack{$/;"	s	file:
+Seqstack	迷宫.c	/^struct Seqstack{$/;"	s	file:
+TSMatrix	三元组.c	/^}TSMatrix;$/;"	t	typeref:struct:__anon5	file:
+Triple	三元组.c	/^}Triple; $/;"	t	typeref:struct:__anon4	file:
+X	排列1-20.c	/^int X[21],used[21];\/\/X[]Ϊ������ uesd[]��¼�Ƿ��ù�$/;"	v
+add	一元多项式.c	/^struct Poly* add(struct Poly* a,struct Poly* b){$/;"	f
+add	三元组.c	/^TSMatrix* add(TSMatrix* a,TSMatrix* b){$/;"	f
+add	通讯录/new.c	/^void add(){$/;"	f
+adjmatrix	图的创建,遍历.c	/^} adjmatrix;$/;"	t	typeref:struct:__anon1	file:
+age	单链表查询与插入.c	/^	int age;$/;"	m	struct:per	file:
+age	通讯录/通讯录.c	/^	int age;$/;"	m	struct:person	file:
+ahead	house_chess.cpp	/^struct pos* ahead(struct pos* p,int d){$/;"	f
+arcnum	图的创建,遍历.c	/^	int arcnum;		\/\/边数 $/;"	m	struct:__anon1	file:
+arcs	图的创建,遍历.c	/^	int arcs[6][6]; 	\/\/边 $/;"	m	struct:__anon1	file:
+aver	ts1.cpp	/^	float aver;$/;"	m	struct:gride	file:
+back	house_chess.cpp	/^struct pos* back(struct pos* p,int d){$/;"	f
+bit_tree_node	树的建立和遍历.c	/^}node,*bit_tree_node;$/;"	t	typeref:struct:Node	file:
+bitree	TW面试/2.c	/^struct bitree{$/;"	s	file:
+charact	哈夫曼.c	/^	char charact;$/;"	m	struct:__anon6	file:
+chudu	图的创建,遍历.c	/^int chudu(adjmatrix *G,char n)$/;"	f
+coef	一元多项式.c	/^	float coef;$/;"	m	struct:Poly	file:
+col	三元组.c	/^	int row,col,value;$/;"	m	struct:__anon4	file:
+cols	三元组.c	/^	int rows,cols,nums;$/;"	m	struct:__anon5	file:
+count	排列1-20.c	/^int count=0; \/\/����$/;"	v
+creat	一元多项式.c	/^struct Poly* creat(){$/;"	f
+creat_tree	树的建立和遍历.c	/^void creat_tree(bit_tree_node *root){$/;"	f
+create	图的创建,遍历.c	/^void create(adjmatrix *G)$/;"	f
+createBiTree	先序和中序建立二叉树.c	/^BiTNode* createBiTree(char *pre, char *in, int n)  $/;"	f
+data	TW面试/2.c	/^	char data;$/;"	m	struct:bitree	file:
+data	TW面试/8.c	/^	int data;$/;"	m	struct:han	file:
+data	Test1.c	/^    int  data;$/;"	m	struct:node	file:
+data	三元组.c	/^	Triple data[MAXSIZE+1];$/;"	m	struct:__anon5	file:
+data	先序和中序建立二叉树.c	/^    char data;    $/;"	m	struct:BiTNode	file:
+data	图的创建,遍历.c	/^	int data[MAX];$/;"	m	struct:__anon2	file:
+data	树的建立和遍历.c	/^    bit_tree_node data[MAX];$/;"	m	struct:__anon3	file:
+data	树的建立和遍历.c	/^    int data;$/;"	m	struct:Node	file:
+del_change	通讯录/del_change.c	/^void del_change(FILE *x,int y,int num){\/*ɾ����y���ṹ��*\/$/;"	f
+direct	house_chess.cpp	/^	int direct[MAXNUM];$/;"	m	struct:Seqstack	file:
+direct	迷宫.c	/^	int direct[MAXNUM];$/;"	m	struct:Seqstack	file:
+dong	house_chess.cpp	/^int dong(int x,int y){$/;"	f
+dong	迷宫.c	/^int dong(int x,int y){$/;"	f
+e_mail	通讯录/通讯录.c	/^	char e_mail[30];$/;"	m	struct:person	file:
+expn	一元多项式.c	/^	int expn;$/;"	m	struct:Poly	file:
+find	通讯录/find.c	/^void find(){$/;"	f
+front	图的创建,遍历.c	/^	int rear,front;$/;"	m	struct:__anon2	file:
+fun	排列1-20.c	/^void fun(int k)$/;"	f
+g1	ts1.cpp	/^	float g1;$/;"	m	struct:gride	file:
+g2	ts1.cpp	/^	float g2;$/;"	m	struct:gride	file:
+g3	ts1.cpp	/^	float g3;$/;"	m	struct:gride	file:
+g4	ts1.cpp	/^	float g4;$/;"	m	struct:gride	file:
+getMatrix	三元组.c	/^void getMatrix(TSMatrix *x){$/;"	f
+getWeightOfStr	哈夫曼.c	/^int getWeightOfStr(char str[] ,int w[],char s[]){$/;"	f
+get_lenth	通讯录/show_all.c	/^int get_lenth(FILE *p){$/;"	f
+gride	ts1.cpp	/^struct gride{$/;"	s	file:
+han	TW面试/8.c	/^struct han{$/;"	s	file:
+i	ts1.cpp	/^void i(struct gride *x){$/;"	f
+inOrder	先序和中序建立二叉树.c	/^void inOrder(BiTNode*root)    $/;"	f
+input	单链表查询与插入.c	/^void input(struct per *x){$/;"	f
+lchild	TW面试/2.c	/^	int lchild;$/;"	m	struct:bitree	file:
+lchild	Test1.c	/^    struct node *lchild, *rchild;$/;"	m	struct:node	typeref:struct:node::node	file:
+lchild	先序和中序建立二叉树.c	/^    struct BiTNode *lchild,*rchild;    $/;"	m	struct:BiTNode	typeref:struct:BiTNode::BiTNode	file:
+main	TW面试/1.c	/^int main(){$/;"	f
+main	TW面试/2.c	/^int main(){$/;"	f
+main	TW面试/3.c	/^int main(){$/;"	f
+main	TW面试/4.c	/^int main(){$/;"	f
+main	TW面试/6.c	/^int main(){$/;"	f
+main	TW面试/7.c	/^int main(){$/;"	f
+main	TW面试/8.c	/^int main(){$/;"	f
+main	Test1.c	/^int main()$/;"	f
+main	house_chess.cpp	/^int main(){$/;"	f
+main	le.c	/^int main(){$/;"	f
+main	pic.c	/^int main(){$/;"	f
+main	q.c	/^int main(){$/;"	f
+main	ts.cpp	/^void main(void)$/;"	f
+main	ts1.cpp	/^int main(){$/;"	f
+main	一元多项式.c	/^int main(){$/;"	f
+main	三元组.c	/^int main(){$/;"	f
+main	先序和中序建立二叉树.c	/^int main()  $/;"	f
+main	单链表查询与插入.c	/^int main(){$/;"	f
+main	变加为乘(acm).c	/^int main(){$/;"	f
+main	哈夫曼.c	/^int main(){$/;"	f
+main	图的创建,遍历.c	/^int main()$/;"	f
+main	密码输入.cpp	/^void main(void) $/;"	f
+main	排列1-20.c	/^int main(){$/;"	f
+main	树的建立和遍历.c	/^int main(){$/;"	f
+main	约瑟夫环.c	/^int main(){$/;"	f
+main	迷宫.c	/^int main(){$/;"	f
+main	通讯录/调试/ts.c	/^int main(){$/;"	f
+main	通讯录/通讯录.c	/^int main(){$/;"	f
+man	约瑟夫环.c	/^struct man{$/;"	s	file:
+menu	通讯录/通讯录.c	/^int menu(){$/;"	f
+minus	三元组.c	/^TSMatrix* minus(TSMatrix* a,TSMatrix* b){$/;"	f
+name	q.c	/^        char name[8];$/;"	m	struct:stu	file:
+name	单链表查询与插入.c	/^	char name[8];$/;"	m	struct:per	file:
+name	通讯录/通讯录.c	/^	char name[20];$/;"	m	struct:person	file:
+next	TW面试/8.c	/^	struct han *next;$/;"	m	struct:han	typeref:struct:han::han	file:
+next	一元多项式.c	/^	struct Poly* next;$/;"	m	struct:Poly	typeref:struct:Poly::Poly	file:
+next	单链表查询与插入.c	/^	struct per *next;$/;"	m	struct:per	typeref:struct:per::per	file:
+next	约瑟夫环.c	/^	struct man* next;$/;"	m	struct:man	typeref:struct:man::man	file:
+node	Test1.c	/^typedef struct node$/;"	s	file:
+node	树的建立和遍历.c	/^}node,*bit_tree_node;$/;"	t	typeref:struct:Node	file:
+num	单链表查询与插入.c	/^	char num[10];$/;"	m	struct:per	file:
+num	约瑟夫环.c	/^	int num;$/;"	m	struct:man	file:
+num	通讯录/通讯录.c	/^	char num[20];$/;"	m	struct:person	file:
+nums	三元组.c	/^	int rows,cols,nums;$/;"	m	struct:__anon5	file:
+parent	哈夫曼.c	/^	int parent,Lchild,Rchild;$/;"	m	struct:__anon6	file:
+per	单链表查询与插入.c	/^struct per {$/;"	s	file:
+person	通讯录/通讯录.c	/^struct person{$/;"	s	file:
+pop	house_chess.cpp	/^int pop(struct Seqstack* s){$/;"	f
+pop	树的建立和遍历.c	/^int pop(SeqStack *s,bit_tree_node *p){$/;"	f
+pop	迷宫.c	/^int pop(struct Seqstack* s){$/;"	f
+pos	house_chess.cpp	/^struct pos{$/;"	s	file:
+preOrder	先序和中序建立二叉树.c	/^void preOrder(BiTNode*root)    $/;"	f
+print	一元多项式.c	/^void print(struct Poly* x){$/;"	f
+print	三元组.c	/^void print(TSMatrix *x){$/;"	f
+print	单链表查询与插入.c	/^void print(struct per *x){$/;"	f
+print	迷宫.c	/^void print(void)$/;"	f
+print	通讯录/show_all.c	/^int print(struct person x){$/;"	f
+push	house_chess.cpp	/^int push(int x,struct Seqstack* s){$/;"	f
+push	迷宫.c	/^int push(int x,struct Seqstack* s){$/;"	f
+rchild	TW面试/2.c	/^	int rchild;$/;"	m	struct:bitree	file:
+rchild	Test1.c	/^    struct node *lchild, *rchild;$/;"	m	struct:node	typeref:struct:node::	file:
+rchild	先序和中序建立二叉树.c	/^    struct BiTNode *lchild,*rchild;    $/;"	m	struct:BiTNode	typeref:struct:BiTNode::	file:
+rear	图的创建,遍历.c	/^	int rear,front;$/;"	m	struct:__anon2	file:
+row	三元组.c	/^	int row,col,value;$/;"	m	struct:__anon4	file:
+rows	三元组.c	/^	int rows,cols,nums;$/;"	m	struct:__anon5	file:
+rudu	图的创建,遍历.c	/^int rudu(adjmatrix *G,char n)$/;"	f
+scan	通讯录/new.c	/^void scan(struct person *x){$/;"	f
+search	house_chess.cpp	/^int search(int x,int* p,int num){$/;"	f
+search	迷宫.c	/^int search(int x,int* p,int num){$/;"	f
+select	哈夫曼.c	/^void select(HuffmanTree ht,int g,int *s1,int *s2){$/;"	f
+sex	q.c	/^        int sex;$/;"	m	struct:stu	file:
+sex	单链表查询与插入.c	/^	char sex;$/;"	m	struct:per	file:
+sex	通讯录/通讯录.c	/^	char sex[10];$/;"	m	struct:person	file:
+show_all	通讯录/show_all.c	/^void show_all(){$/;"	f
+stu	q.c	/^struct stu{$/;"	s	file:
+subtract	一元多项式.c	/^struct Poly* subtract(struct Poly* a,struct Poly* b){$/;"	f
+top	house_chess.cpp	/^	int top; $/;"	m	struct:Seqstack	file:
+top	树的建立和遍历.c	/^    int top;$/;"	m	struct:__anon3	file:
+top	迷宫.c	/^	int top; $/;"	m	struct:Seqstack	file:
+tu	pic.c	/^char tu[130][130]={                    $/;"	v
+used	排列1-20.c	/^int X[21],used[21];\/\/X[]Ϊ������ uesd[]��¼�Ƿ��ù�$/;"	v
+value	三元组.c	/^	int row,col,value;$/;"	m	struct:__anon4	file:
+vex	图的创建,遍历.c	/^	char vex[6];	\/\/顶点 $/;"	m	struct:__anon1	file:
+vexnum	图的创建,遍历.c	/^	int vexnum;		\/\/顶点数 $/;"	m	struct:__anon1	file:
+visitedB	图的创建,遍历.c	/^int visitedB[6]={0};$/;"	v
+wall	迷宫.c	/^int wall[30]={13,17,21,23,25,27,35,36,38,42,43,44,45,47,54,62,66,68,72,73,74,75,78,81,82,84,86,88,91,92};$/;"	v
+weight	哈夫曼.c	/^	int weight;$/;"	m	struct:__anon6	file:
+x	house_chess.cpp	/^	int x;$/;"	m	struct:pos	file:
+xianjie	排列1-20.c	/^int xianjie(int k,int i){$/;"	f
+y	house_chess.cpp	/^	int y;$/;"	m	struct:pos	file:
